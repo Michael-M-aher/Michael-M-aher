@@ -7,6 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mishoo_maher/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/201285382191)
 [![CodeForces Badge](https://img.shields.io/badge/-CodeForces-0088cc?style=flat-square&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/micheal_maher)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-000000?style=style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/MichaelMaher)
 [![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?style=style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/mishoopop69a56)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Michael-M-aher.Michael-M-aher&style=flat-square&color=0088cc)
