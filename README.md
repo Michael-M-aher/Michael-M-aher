@@ -3,12 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-maher-052334131/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:michael.maher.nagi@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/mishoo.maher/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/mishoo.maher/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mishoo_maher/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/201285382191)
 [![CodeForces Badge](https://img.shields.io/badge/-CodeForces-0088cc?style=flat-square&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/micheal_maher)
-[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-000000?style=style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/MichaelMaher)
-[![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?style=style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/mishoopop69a56)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-000000?style=flat-square&logo=Leetcode)](https://leetcode.com/MichaelMaher)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-0d141e?style=flat-square&logo=HackerRank)](https://www.hackerrank.com/Michael_Maher)
+[![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance)](https://www.behance.net/mishoopop69a56)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Michael-M-aher.Michael-M-aher&style=flat-square&color=0088cc)
 
