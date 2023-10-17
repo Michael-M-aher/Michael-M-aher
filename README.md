@@ -1,4 +1,4 @@
-## Hey <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>, I'm [Michael Maher!](https://github.com/Michael-M-aher)<br />
+## Hey <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='30' align="left"/>, I'm [Michael Maher!](https://github.com/Michael-M-aher)<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-maher-052334131/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
